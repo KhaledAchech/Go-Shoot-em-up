@@ -60,7 +60,7 @@ also i used the live server plugin in VsCode for running a local server in order
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/KhaledAchech/Go-Shoot-em-up.git
    ```
 2. run npm i
    ```sh
